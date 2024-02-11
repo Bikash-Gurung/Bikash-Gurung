@@ -4,14 +4,16 @@ I'm a software engineer with over 5 years of experience in Java, specializing in
 
 ##  Key Skills 
 
-* **REST API Development :** Proven track record of designing and developing APIs using best practices and various frameworks.
-* **Java :** Adept in Java programming, including object-oriented design, data structures, and algorithms.
-* **Spring Boot :** Experience with Spring Boot application development.
-* **Redis :** Experience with in-memory data storage and caching using Redis.
-* **MySQL :** Proficient in relational database management using MySQL.
-* **Linux :** Comfortable working in Linux environments.
-* **JavaScript :** Knowledge of JavaScript for front-end development and scripting.
-* **Chrome Extension Development :** Experience building browser extensions for Chrome.
+* **REST API Development** 
+* **Java**
+* **Spring Boot**
+* **Redis**
+* **MySQL**
+* **Linux**
+* **CI/DC Using Jenkins**
+* **Familiar with Amazon EC2 and RDS**
+* **JavaScript**
+* **Chrome Extension Development**
 
 ##  Get in Touch! 
 
