@@ -1,19 +1,23 @@
 #  Hi there! I'm Bikash Gurung 
 
-I'm a software engineer with over 5 years of experience in Java, specializing in building robust REST APIs, utilizing diverse technologies, and working with microservice architecture.
-
+Hi 👋, I am an experienced and highly motivated Senior Software Engineer with over 5+ years of industry experience, excelling in leading teams, developing robust REST APIs, and optimizing engineering processes. Proficient in Agile methodologies, Scrum practices, and effective cross-functional collaboration. A lifelong learner committed to continuous improvement and delivering high-quality software solutions.
 ##  Key Skills 
 
-* **REST API Development** 
-* **Java**
-* **Spring Boot**
-* **Redis**
-* **MySQL**
-* **Linux**
-* **CI/DC Using Jenkins**
-* **Familiar with Amazon EC2 and RDS**
-* **JavaScript**
-* **Chrome Extension Development**
+* Java
+* Spring Boot
+* JPA (Hibernate)
+* Javascript
+* MySql
+* Redis
+* Maven
+* Linux
+* Git and Github
+* Postman
+* Familiar with Docker
+* Familiar with Microservice Architecture
+* Familiar with AWS Services like EC2, RDS, S3
+* Familiar with CI/CD usig Jenkins
+* Familiary with Monitoring tools like Graphana
 
 ##  Get in Touch! 
 
