@@ -13,7 +13,7 @@ I am an experienced and highly motivated Senior Software Engineer with over 5+ y
 * Linux
 * Git and Github
 * Postman
-* Familiar with Docker
+* Docker
 * Familiar with Microservice Architecture
 * Familiar with AWS Services like EC2, RDS, S3
 * Familiar with CI/CD usig Jenkins
