@@ -1,6 +1,6 @@
 #  Hi there! 👋 I'm Bikash Gurung 
 
-I am an experienced and highly motivated Senior Software Engineer with over 5+ years of industry experience, excelling in leading teams, developing robust REST APIs, and optimizing engineering processes. Proficient in Agile methodologies, Scrum practices, and effective cross-functional collaboration. A lifelong learner committed to continuous improvement and delivering high-quality software solutions.
+I am an experienced and highly motivated Senior Software Engineer with over 6+ years of industry experience, excelling in leading teams, developing robust REST APIs, and optimizing engineering processes. Proficient in Agile methodologies, Scrum practices, and effective cross-functional collaboration. A lifelong learner committed to continuous improvement and delivering high-quality software solutions.
 ##  Key Skills 
 
 * Java
